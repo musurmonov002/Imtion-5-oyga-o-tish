@@ -1,0 +1,20 @@
+.tepa{
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+.tepa b{
+    font-size: 40px;
+}
+
+.qora{
+    withd: 100px;
+    /* height: 20vh; */
+    border-radius: 20px;
+}
+
+.qora img{
+    width: 100px;
+}
